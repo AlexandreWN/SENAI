@@ -13,6 +13,7 @@ namespace FormulariosDeCadastro
 {
     public partial class Form1 : Form
     {
+        MySqlConnection Conexao;
         public Form1()
         {
             InitializeComponent();
@@ -28,7 +29,7 @@ namespace FormulariosDeCadastro
                 //criar conexao com o banco de dados
                 Conexao = new MySqlConnection(data_source);
 
-                string sql = "INSERT INTO cliente (nome, cpf, endereco, bairro, cidade, telefone, data_nasc) VALUES ('" + txbNome.Text + "', '" + txbCpf.Text + "','" + txbEndereco.Text + "','" + txbBairro.Text + "','" + txbCidade.Text + "','" + txbTelefone.Text + "', '" + txbNascimento.Text + "')";
+                string sql = "INSERT INTO cliente (PrecoCompra, PrecoVenda, Estoque,Descricao) VALUES ('" + Compra.Text + "', '" + Venda.Text + "','" + Estoque.Text + "','" + Descricao.Text + "')";
 
                 //Executrar comando mysql
                 MySqlCommand comando = new MySqlCommand(sql, Conexao);

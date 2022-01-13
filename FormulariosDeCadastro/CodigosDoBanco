@@ -3,7 +3,7 @@ create TABLE produto(
     	Descricao varchar(50) not null,
    		PrecoCompra varchar(50) not null,
     	PrecoVenda varchar(50) not null,
-    	QtdCompra	varchar(50) not null
+    	Estoque	varchar(50) not null
 )
 
 CREATE TABLE funcionario(
