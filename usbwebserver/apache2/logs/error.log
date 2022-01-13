@@ -1,0 +1,7 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library '//Cch01labf001/sql/usbwebserver\\php\\ext\\php_curl.dll' - N\xef\xbf\xbdo foi poss\xef\xbf\xbdvel encontrar o m\xef\xbf\xbddulo especificado.\r\n in Unknown on line 0
+[Thu Jan 13 09:50:30.846916 2022] [mpm_winnt:notice] [pid 14788:tid 728] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Thu Jan 13 09:50:30.847913 2022] [mpm_winnt:notice] [pid 14788:tid 728] AH00456: Server built: Nov  3 2017 01:01:54
+[Thu Jan 13 09:50:30.847913 2022] [core:notice] [pid 14788:tid 728] AH00094: Command line: '\\\\Cch01labf001\\sql\\usbwebserver/apache2/bin/httpd_usbwv8.exe -d //Cch01labf001/sql/usbwebserver/apache2'
+[Thu Jan 13 09:50:30.866898 2022] [mpm_winnt:notice] [pid 14788:tid 728] AH00418: Parent: Created child process 10580
+PHP Warning:  PHP Startup: Unable to load dynamic library '//Cch01labf001/sql/usbwebserver\\php\\ext\\php_curl.dll' - N\xef\xbf\xbdo foi poss\xef\xbf\xbdvel encontrar o m\xef\xbf\xbddulo especificado.\r\n in Unknown on line 0
+[Thu Jan 13 09:50:31.583216 2022] [mpm_winnt:notice] [pid 10580:tid 708] AH00354: Child: Starting 64 worker threads.
