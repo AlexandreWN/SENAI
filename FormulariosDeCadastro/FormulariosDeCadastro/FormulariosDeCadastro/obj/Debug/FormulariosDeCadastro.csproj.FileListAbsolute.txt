@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\bin\Debug\FormulariosDeCadastro.exe.config
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\bin\Debug\FormulariosDeCadastro.exe
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\bin\Debug\FormulariosDeCadastro.pdb
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\obj\Debug\FormulariosDeCadastro.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\obj\Debug\FormulariosDeCadastro.Form1.resources
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\obj\Debug\FormulariosDeCadastro.Properties.Resources.resources
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\obj\Debug\FormulariosDeCadastro.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\obj\Debug\FormulariosDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\obj\Debug\FormulariosDeCadastro.exe
+C:\Users\aluno\Desktop\FormulariosDeCadastro\FormulariosDeCadastro\FormulariosDeCadastro\obj\Debug\FormulariosDeCadastro.pdb
