@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Atividade Salão de beleza\SalaoDeBeleza\SalaoDeBeleza\bin\Debug\SalaoDeBeleza.exe.config
+C:\Users\aluno\Desktop\Atividade Salão de beleza\SalaoDeBeleza\SalaoDeBeleza\bin\Debug\SalaoDeBeleza.exe
+C:\Users\aluno\Desktop\Atividade Salão de beleza\SalaoDeBeleza\SalaoDeBeleza\bin\Debug\SalaoDeBeleza.pdb
+C:\Users\aluno\Desktop\Atividade Salão de beleza\SalaoDeBeleza\SalaoDeBeleza\obj\Debug\SalaoDeBeleza.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Atividade Salão de beleza\SalaoDeBeleza\SalaoDeBeleza\obj\Debug\SalaoDeBeleza.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Atividade Salão de beleza\SalaoDeBeleza\SalaoDeBeleza\obj\Debug\SalaoDeBeleza.exe
+C:\Users\aluno\Desktop\Atividade Salão de beleza\SalaoDeBeleza\SalaoDeBeleza\obj\Debug\SalaoDeBeleza.pdb
