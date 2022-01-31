@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Teste";
+}
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Teste</h1>
+    <p>Isto é um <a href="https://www.google.com" target="_blank">Teste</a>.</p>
+    @for (int i = 0; i < 10; i++)
+    {
+        <p>Bom Dia!<%=i%></p>
+    }
+</div>
