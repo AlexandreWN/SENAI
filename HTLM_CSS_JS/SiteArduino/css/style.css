@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+body{
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+  
+header{
+    background: #F2F2F2;
+    height: fit-content;
+}
+nav ul{
+    margin-top: 25px;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    height: 100%;
+}
+nav ul li a{
+    color: #252525; 
+    text-decoration: none;
+    margin: 0 8px;
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: bold;
+}
+.caixa{
+    width: 100%;
+    max-width: calc(100vw - 20px);
+    margin: 0 auto;
+    height: 110px;
+    padding: 20px 0;
+}
+
+.Principal{
+    display: flex;
+    background-color: #000;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100vh - 150px);
+}
+
+.botao{
+    width: 8rem;
+    height: 4rem;
+    border-radius: 10px;
+    border: 3px solid yellow;
+    background-color: #000;
+    color:white;
+    font-size: 18px;
+    font-family: Ubuntu;
+}
+.botao:hover{
+    width: 9rem;
+    height: 5rem;
+    border-radius: 10px;
+    border: 3px solid yellow;
+    background-color: #000;
+    color:white;
+    font-size: 20px;
+}
+  
