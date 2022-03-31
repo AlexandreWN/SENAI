@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\bin\Debug\net6.0\Atividade01.exe
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\bin\Debug\net6.0\Atividade01.deps.json
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\bin\Debug\net6.0\Atividade01.runtimeconfig.json
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\bin\Debug\net6.0\Atividade01.dll
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\bin\Debug\net6.0\Atividade01.pdb
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.dll
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\refint\Atividade01.dll
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.pdb
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\Atividade01.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Senai\AulasCShap\Atividade01\Atividade01\obj\Debug\net6.0\ref\Atividade01.dll
