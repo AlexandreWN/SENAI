@@ -454,19 +454,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexa\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\SENAI\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
       "projectName": "Atividade01",
-      "projectPath": "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
-      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\obj\\",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\SENAI\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\SENAI\\AulasCShap\\Atividade01\\Atividade01\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -512,7 +517,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
