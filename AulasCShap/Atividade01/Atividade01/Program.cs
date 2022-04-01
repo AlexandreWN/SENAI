@@ -7,8 +7,12 @@ using System.Data;
 var assembly = Assembly.GetExecutingAssembly();
 
 string tabela = "", colunas = "", tipos = "",codigo= "";
+string conexao;
+SqlConnection con;
+conexao = ("Server=DESKTOP-T74UHOH\\SQLEXPRESS;Database=teste;Trusted_Connection=True;");
+con = new SqlConnection(conexao);
 
-foreach(var type in assembly.GetTypes())
+foreach (var type in assembly.GetTypes())
 {
     if (type.Name.EndsWith("Table")){
         tabela = type.Name;
@@ -44,11 +48,13 @@ foreach(var type in assembly.GetTypes())
     }
 }
 Console.WriteLine(codigo);
+SqlCommand cmd = new SqlCommand(codigo, con);
+con.Open();
+cmd.ExecuteNonQuery();
+con.Close();
 
 public class ClientTable
 {
     public int id { get; set; }
     public string name { get; set; }
-    public decimal price { get; set; }
-    public char sexo { get; set; }
 }

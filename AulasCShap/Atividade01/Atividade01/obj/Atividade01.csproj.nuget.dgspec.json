@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\disrct\\Desktop\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj": {}
+    "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\disrct\\Desktop\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj": {
+    "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
         "projectName": "Atividade01",
-        "projectPath": "C:\\Users\\disrct\\Desktop\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
-        "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\disrct\\Desktop\\Senai\\AulasCShap\\Atividade01\\Atividade01\\obj\\",
+        "projectPath": "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\Atividade01.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Desktop\\Repositório\\Senai\\AulasCShap\\Atividade01\\Atividade01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
