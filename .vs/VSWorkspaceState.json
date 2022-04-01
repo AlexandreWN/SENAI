@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AulasCShap",
+    "\\AulasCShap\\Atividade01",
+    "\\AulasCShap\\Atividade01\\Atividade01"
   ],
-  "SelectedNode": "\\Projeto",
+  "SelectedNode": "\\AulasCShap\\Atividade01\\Atividade01\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
