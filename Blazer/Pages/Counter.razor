@@ -6,6 +6,13 @@
 
 <p role="status">Current count: @currentCount</p>
 
+@if (currentCount % 2 ==0){
+    <p>OI</p>
+}
+else{
+    <p>Tchau</p>
+}
+
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
 @code {
@@ -14,5 +21,6 @@
     private void IncrementCount()
     {
         currentCount++;
+        StateHasChanged(); //Atualiza a tela
     }
 }

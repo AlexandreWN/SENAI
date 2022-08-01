@@ -1,0 +1,5 @@
+//Cria projeto blazorserver
+dotnet new blazorserver
+
+//Instala o butstrap do blazorserver
+dotnet add package MatBlazor  { Para usar a Bibliotecla importa com @using MatBlazor }

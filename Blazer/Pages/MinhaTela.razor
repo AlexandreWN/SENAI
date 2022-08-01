@@ -1,0 +1,16 @@
+@page "/teste/{id}"
+
+<h1>Minha Tela</h1>
+<MatButton Icon="all_out">Meu Botao</MatButton>
+<p>
+    <MatTextField @bind-Value="@Text" Label="Standard"></MatTextField>
+</p>
+
+<p>Ola @id @Text</p>
+
+@code{
+    string Text;
+    
+    [Parameter]
+    public string id {get; set;}
+}
