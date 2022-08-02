@@ -9,6 +9,6 @@ public class MainController : ControllerBase
     [HttpGet("key")]
     public string GetKey([FromServices]CryptoService crypto)
     {
-        return crypto.getInternalKey(TimeSpan.FromSeconds(1), 999999999);
+        return crypto.getInternalKey(TimeSpan.FromSeconds(1), 24);
     }
 }
