@@ -1,4 +1,4 @@
-namespace Server;
+namespace tokenServer;
 
 public class WeatherForecast
 {
